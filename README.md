@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aloyto
 - 👀 I’m interested in ...vba
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...vba
+- 💞️ I’m looking to collaborate on ...vba access
 - 📫 How to reach me ...
 
 <!---
